@@ -1045,7 +1045,7 @@ class Ui_MainWindow(object):
         self.stackedWidget.setStyleSheet("background: transparent;")
         self.stackedWidget.setObjectName("stackedWidget")
         self.home = QtWidgets.QWidget()
-        self.home.setStyleSheet("background-image: url(:/images/images/images/PyDracula_vertical.png);\n"
+        self.home.setStyleSheet("background-image: url(:/images/images/images/kada-en.png);\n"
 "background-position: center;\n"
 "background-repeat: no-repeat;")
         self.home.setObjectName("home")
